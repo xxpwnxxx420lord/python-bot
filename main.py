@@ -13,7 +13,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import asyncio
 
-BotToken = "MTM0NTYxMzI1MTc5ODM3MjQ2NA.GF5EIP.lioGJsqrxf3C6WjJNbUOm1A3fks4MWCGKSAQ0o"
+BotToken = "bazinga"
 ops = ["heads", "tails"]
 bot_name = "xxpwnxxx420lord"
 
