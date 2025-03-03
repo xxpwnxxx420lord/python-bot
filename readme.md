@@ -12,7 +12,7 @@ A feature-rich Discord bot with Roblox utilities and fun commands.
 ## ⚙️ Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/yourbot.git
+   git clone https://github.com/xxpwnxxx420lord/python-bot/tree/main
    cd yourbot
    ```
 2. Install dependencies:
@@ -21,7 +21,7 @@ A feature-rich Discord bot with Roblox utilities and fun commands.
    ```
 3. Run the bot:
    ```sh
-   python bot.py
+   python main.py
    ```
 
 ## 🔧 Usage
