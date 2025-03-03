@@ -48,6 +48,8 @@ This project is licensed under the MIT License.
 
 ## other stuff
 [report issues](https://github.com/xxpwnxxx420lord/python-bot/issues)
+
 [contact me on discord](https://discord.gg/MN8tAa5Ben)
+
 PLEASE DO NOT REMOVE CHROME DRIVER 🙏🏻
 
